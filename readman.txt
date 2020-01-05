@@ -1,5 +1,5 @@
-git add readman.txt --把工作区的提交到暂存区
-git commit -m 把暂存区的文件提交到仓库
+git add readman.txt --锟窖癸拷锟斤拷锟斤拷锟斤拷锟结交锟斤拷锟捷达拷锟斤拷
+git commit -m 锟斤拷锟捷达拷锟斤拷锟斤拷锟侥硷拷锟结交锟斤拷锟街匡拷
 git commit readman.txt -m "first commit"
 git add readman.txt
-我再次添加
+锟斤拷锟劫达拷锟斤拷锟斤拷
